@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ML / DL specific
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+*.tar.xz
+*.h5
+*.npy
+*.json
+*.png
+
+# Data folders
+data/
+datasets/
+*.csv
+*.npy
+*.npz
+
+*/visualizations_eccv_300_random
+
+# original/
+# test/
+# train/
+# val/
+
+# Outputs
+outputs/
+results/
+runs/
+wandb/
+
+# IDE
+.vscode/
+.idea/
